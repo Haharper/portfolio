@@ -5,7 +5,7 @@ This is Haokun (she/her), a MIIPS student at CMU. I'm focus on user centered des
 
 
 # What I hope to learn
-- UUse data to tell an inspiring story.
+- Use data to tell an inspiring story.
 - Make sensible and human-centered data visualization.
 
 # Portfolio
